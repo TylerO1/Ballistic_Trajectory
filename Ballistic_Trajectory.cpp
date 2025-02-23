@@ -162,14 +162,6 @@ class DragPhysics
 
 int main()
 {
-    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
-
-    for (const string& word : msg)
-    {
-        cout << word << " ";
-    }
-    cout << endl;
-
     /* 
     Ambient Conditions:
     Assuming Cedar Falls, Iowa "standard" pressure ~1027 mbar, measured 9 Feb 2025
